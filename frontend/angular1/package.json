@@ -12,22 +12,21 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "admin-lte": "^2.3.11",
+    "admin-lte": "^3.0.1",
     "angular": "^1.7.9",
     "angular-animate": "^1.7.9",
     "angular-toastr": "^2.1.1",
-    "babel-core": "^6.26.0",
-    "babel-preset-env": "^1.6.0",
-    "font-awersome": "^4.7.0",
-    "gulp": "^3.9.1",
-    "gulp-babel": "^7.0.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "font-awesome": "4.7.0",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
     "gulp-concat": "^2.6.1",
-    "gulp-htmlmin": "^3.0.0",
-    "gulp-uglify": "^3.0.0",
-    "gulp-uglifycss": "^1.0.8",
-    "gulp-util": "^3.0.8",
-    "gulp-watch": "^4.3.11",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-uglify": "^3.0.2",
+    "gulp-uglifycss": "^1.1.0",
+    "gulp-watch": "^5.0.1",
     "gulp-webserver": "^0.9.1",
-    "run-sequence": "^2.2.0"
+    "run-sequence": "^2.2.1"
   }
 }
